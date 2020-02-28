@@ -1,4 +1,4 @@
-# HR-Chatbot
+# HumanResources-Chatbot
 project represents model of an HR chatbot with few functionalities of an HR like recruitment of new applicants, asking about policies and one internal function i.e. asking for leave.
 
 We made this HR chatbot with two technologies - one with deep learning and other one without deep learning.
@@ -16,7 +16,7 @@ FOR DEEP LEARNING CHATBOT -
 Some screenshots are attached below - 
 
 
-# RECRUITMENT and POLICY
+# RECRUITMENT POLICY SYSTEM
 
 # INTERNAL FUNCTIONS
 
