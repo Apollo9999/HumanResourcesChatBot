@@ -17,6 +17,7 @@ Some screenshots are attached below -
 
 
 # RECRUITMENT POLICY SYSTEM
+https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/HRChatbotRecruitmentScreen.png
 
 # INTERNAL FUNCTIONS
 
