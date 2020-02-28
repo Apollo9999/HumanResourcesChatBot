@@ -21,6 +21,6 @@ Some screenshots are attached below -
 # INTERNAL FUNCTIONS
 
 ==============================================================================
-
+https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/Internal%20hr%20functions.PNG
 
 # Employee who not eligible take leave
