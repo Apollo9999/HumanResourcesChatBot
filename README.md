@@ -24,3 +24,5 @@ Some screenshots are attached below -
 https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/Internal%20hr%20functions.PNG
 
 # Employee who not eligible take leave
+
+https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/Employee%20with%20No%20Leaves.PNG
