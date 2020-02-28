@@ -17,14 +17,10 @@ Some screenshots are attached below -
 
 
 # RECRUITMENT and POLICY
-![Settings Window] https://raw.github.com/Apollo9999/HumanResourcesChatbot/blob/master/HR%20Chatbot%20Recruitment%20ScreenSettings.png
 
 # INTERNAL FUNCTIONS
-![alt text](https://raw.githubusercontent.com/AnmolKankariya/HR-Chatbot/master/internal%20hr%20function.PNG?raw=true)
 
 ==============================================================================
 
-![alt text](https://raw.githubusercontent.com/AnmolKankariya/HR-Chatbot/master/leave%20screenshor.PNG?raw=true)
 
-# The one who can't take leave
-![alt text](https://raw.githubusercontent.com/AnmolKankariya/HR-Chatbot/master/person%20with%200%20leave%20left.PNG?raw=true)
+# Employee who not eligible take leave
