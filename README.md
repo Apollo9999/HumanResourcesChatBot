@@ -21,7 +21,6 @@ https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/HRChatbotRecruit
 
 # INTERNAL FUNCTIONS
 
-==============================================================================
 https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/Internal%20hr%20functions.PNG
 
 # Employee who are not eligible take leave
