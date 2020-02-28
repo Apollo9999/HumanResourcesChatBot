@@ -24,6 +24,10 @@ https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/HRChatbotRecruit
 ==============================================================================
 https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/Internal%20hr%20functions.PNG
 
-# Employee who not eligible take leave
+# Employee who are not eligible take leave
 
 https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/Employee%20with%20No%20Leaves.PNG
+
+# Employee  eligible to take leave Sanction
+
+https://github.com/Apollo9999/HumanResourcesChatBot/blob/master/EmployeeLeavesanction%20screenshot.PNG
