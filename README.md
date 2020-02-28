@@ -17,7 +17,7 @@ Some screenshots are attached below -
 
 
 # RECRUITMENT and POLICY
-![alt text] https://raw.github.com/Apollo9999/HumanResourcesChatbot/blob/master/HR%20Chatbot%20Recruitment%20Screen.png?raw==true
+![Settings Window] https://raw.github.com/Apollo9999/HumanResourcesChatbot/blob/master/HR%20Chatbot%20Recruitment%20ScreenSettings.png
 
 # INTERNAL FUNCTIONS
 ![alt text](https://raw.githubusercontent.com/AnmolKankariya/HR-Chatbot/master/internal%20hr%20function.PNG?raw=true)
