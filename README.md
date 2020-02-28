@@ -13,7 +13,7 @@ FOR DEEP LEARNING CHATBOT -
 1. Run *model.py* to build model first.
 2. Run *responses.py* to use the model and fetch responses.
 
-Some screenshots are attached below - 
+screenshots links are attached below - 
 
 
 # RECRUITMENT POLICY SYSTEM
